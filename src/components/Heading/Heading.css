@@ -1,0 +1,15 @@
+
+.header-line h2 {
+    background-color: #ffc419;
+    text-align: center;
+    padding: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border-radius:  20px;
+    color: #48f8ff;
+    text-shadow: 2px 2px #000000;
+    font-size: 40px;
+    font-family: Arial , Serif ,sans-serif ;
+    word-spacing: 0.1em;
+    font-weight: 700;
+}

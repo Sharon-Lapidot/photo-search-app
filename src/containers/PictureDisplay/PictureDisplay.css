@@ -1,0 +1,23 @@
+
+.image {
+    float: left;
+    width: 25%;
+    height: 250px;
+    padding: 5px;
+    box-sizing: border-box;
+    border: 1px solid #333333;
+}
+
+
+.error-heading h2 {
+    text-align: center;
+    margin: auto;
+    padding-top: 80px;
+    font-size: 50px;
+    font-family: "Arial Narrow";
+    text-shadow: 1px 1px #333333;
+    color: #ff3465;
+    font-style: oblique;
+}
+
+
